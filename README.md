@@ -1,5 +1,6 @@
 NOTE: This is a fork which includes fixes for passing the emulated Super Serial Card
-through a real serial port, for pull request. See the ssc-fixes branch.
+through a real serial port. See the ssc-fixes branch or this pull request:
+https://github.com/linappleii/linapple/pull/204
 
 LinApple
 ========
